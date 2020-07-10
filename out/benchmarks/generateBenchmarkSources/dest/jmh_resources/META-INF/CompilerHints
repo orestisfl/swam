@@ -1,0 +1,15 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,swam/runtime/MandelbrotPerformances.computeMandelbrot
+inline,swam/runtime/MandelbrotPerformances.setup
+inline,swam/runtime/MandelbrotPerformances.teardown
+inline,swam/runtime/internals/interpreter/StackPerformances_01_Push.push
+inline,swam/runtime/internals/interpreter/StackPerformances_01_Push.setupFrame
+inline,swam/runtime/internals/interpreter/StackPerformances_01_Push.setupValues
+inline,swam/runtime/internals/interpreter/StackPerformances_01_Push.tearDown
+inline,swam/runtime/internals/interpreter/StackPerformances_02_Pop.pop
+inline,swam/runtime/internals/interpreter/StackPerformances_02_Pop.setupFrame
+inline,swam/runtime/internals/interpreter/StackPerformances_02_Pop.tearDown

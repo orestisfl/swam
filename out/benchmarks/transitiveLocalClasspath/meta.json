@@ -1,0 +1,10 @@
+{
+    "value": [
+        "ref:57c1341e:/home/orestis/KTH/SLUMPs/swam/runtime/resources",
+        "ref:2e6d7cae:/home/orestis/KTH/SLUMPs/swam/out/runtime/compile/dest/classes",
+        "ref:dc0ba956:/home/orestis/KTH/SLUMPs/swam/core/resources",
+        "ref:334a7f69:/home/orestis/KTH/SLUMPs/swam/out/core/compile/dest/classes"
+    ],
+    "valueHash": -1786455669,
+    "inputsHash": -438880421
+}

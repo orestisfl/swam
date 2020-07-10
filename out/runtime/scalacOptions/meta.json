@@ -1,0 +1,15 @@
+{
+    "value": [
+        "-feature",
+        "-deprecation",
+        "-unchecked",
+        "-Ypatmat-exhaust-depth",
+        "off",
+        "-Ywarn-unused:locals,imports",
+        "-Ymacro-annotations",
+        "-Wvalue-discard",
+        "-Xfatal-warnings"
+    ],
+    "valueHash": 1410728313,
+    "inputsHash": 1535928707
+}

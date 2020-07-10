@@ -1,0 +1,13 @@
+{
+    "value": [
+        "qref:9628596b:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/kind-projector_2.13.2/0.11.0/kind-projector_2.13.2-0.11.0.jar",
+        "qref:f755e742:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/olegpy/better-monadic-for_2.13/0.3.1/better-monadic-for_2.13-0.3.1.jar",
+        "qref:89154681:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.2/scala-compiler-2.13.2.jar",
+        "qref:4bcc52ea:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar",
+        "qref:63e86317:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.2/scala-reflect-2.13.2.jar",
+        "qref:1934a3e0:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.14.1/jline-3.14.1.jar",
+        "qref:5bacec6c:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar"
+    ],
+    "valueHash": 992595323,
+    "inputsHash": 86210011
+}

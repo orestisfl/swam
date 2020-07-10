@@ -1,0 +1,32 @@
+{
+    "value": [
+        "ref:dc0ba956:/home/orestis/KTH/SLUMPs/swam/core/resources",
+        "ref:334a7f69:/home/orestis/KTH/SLUMPs/swam/out/core/compile/dest/classes",
+        "ref:57c1341e:/home/orestis/KTH/SLUMPs/swam/runtime/resources",
+        "qref:4bcc52ea:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar",
+        "qref:c1155e11:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/pureconfig/pureconfig-enumeratum_2.13/0.12.3/pureconfig-enumeratum_2.13-0.12.3.jar",
+        "qref:0dd4fd21:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/beachape/enumeratum_2.13/1.5.15/enumeratum_2.13-1.5.15.jar",
+        "qref:68fda7bf:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/co/fs2/fs2-core_2.13/2.3.0/fs2-core_2.13-2.3.0.jar",
+        "qref:555398ae:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/co/fs2/fs2-io_2.13/2.3.0/fs2-io_2.13-2.3.0.jar",
+        "qref:c312d085:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scodec/scodec-stream_2.13/2.0.0/scodec-stream_2.13-2.0.0.jar",
+        "qref:c85487ae:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/pureconfig/pureconfig-generic_2.13/0.12.3/pureconfig-generic_2.13-0.12.3.jar",
+        "qref:9d6f7504:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/pureconfig/pureconfig-cats-effect_2.13/0.12.3/pureconfig-cats-effect_2.13-0.12.3.jar",
+        "qref:95c94aad:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scodec/scodec-core_2.13/1.11.7/scodec-core_2.13-1.11.7.jar",
+        "qref:ab758163:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/io/estatico/newtype_2.13/0.4.3/newtype_2.13-0.4.3.jar",
+        "qref:54515f06:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.1.5/scala-collection-compat_2.13-2.1.5.jar",
+        "qref:b1f2d040:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/pureconfig/pureconfig-core_2.13/0.12.3/pureconfig-core_2.13-0.12.3.jar",
+        "qref:41131a25:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.13/1.5.10/enumeratum-macros_2.13-1.5.10.jar",
+        "qref:395ebab7:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.1.1/cats-core_2.13-2.1.1.jar",
+        "qref:af79da5d:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-effect_2.13/2.1.2/cats-effect_2.13-2.1.2.jar",
+        "qref:e20da616:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scodec/scodec-bits_2.13/1.1.14/scodec-bits_2.13-1.1.14.jar",
+        "qref:448a6ee9:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/pureconfig/pureconfig-generic-base_2.13/0.12.3/pureconfig-generic-base_2.13-0.12.3.jar",
+        "qref:e8b938da:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.3/shapeless_2.13-2.3.3.jar",
+        "qref:b25ede97:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/pureconfig/pureconfig-macros_2.13/0.12.3/pureconfig-macros_2.13-0.12.3.jar",
+        "qref:26657312:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.0/config-1.4.0.jar",
+        "qref:63e86317:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.2/scala-reflect-2.13.2.jar",
+        "qref:823b2cf5:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-macros_2.13/2.1.1/cats-macros_2.13-2.1.1.jar",
+        "qref:0520d882:/home/orestis/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.1.1/cats-kernel_2.13-2.1.1.jar"
+    ],
+    "valueHash": -1380005060,
+    "inputsHash": -165308057
+}

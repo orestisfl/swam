@@ -1,0 +1,9 @@
+{
+    "value": [
+        "ref:5dfadc8a:/home/orestis/KTH/SLUMPs/swam/benchmarks/src/swam/runtime/internals/interpreter/StackPerformances.scala",
+        "ref:7639b935:/home/orestis/KTH/SLUMPs/swam/benchmarks/src/swam/runtime/internals/interpreter/Config.scala",
+        "ref:0a766a54:/home/orestis/KTH/SLUMPs/swam/benchmarks/src/swam/MandelbrotPerformances.scala"
+    ],
+    "valueHash": -1850498694,
+    "inputsHash": -1740760663
+}
