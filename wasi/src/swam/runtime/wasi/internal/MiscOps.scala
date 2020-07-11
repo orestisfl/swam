@@ -26,7 +26,7 @@ import cats.effect.ExitCode
 
 private[wasi] trait MiscOps[F[_]] extends WasiBase[F] {
 
-  private val random = SecureRandom.getInstanceStrong()
+  private val random = new SecureRandom()
 
   def pollOneoff(in: Pointer, out: Pointer, nsubscriptions: Size, nevents: Pointer): F[Errno] =
     unimplemented("poll_oneoff")
