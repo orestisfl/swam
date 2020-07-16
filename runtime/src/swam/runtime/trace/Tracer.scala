@@ -23,7 +23,7 @@ abstract class Tracer {
 
   /** Filters whether the given event type should be traced in the
     * current [[StackFrame]] context.
-    * By default, traces all evcents. Override to implement custom filtering
+    * By default, traces all events. Override to implement custom filtering
     * logic.
     */
   def filter(tpe: EventType, args: List[String], frame: StackFrame): Boolean =
@@ -35,8 +35,13 @@ abstract class Tracer {
     */
   def traceEvent(tpe: EventType, args: List[String]): Unit
 
-  private[runtime] final def trace(tpe: EventType, args: List[String], frame: StackFrame): Unit =
-    if (filter(tpe, args, frame))
-      traceEvent(tpe, args)
+  private[runtime] final def trace(tpe: EventType, args: List[String], frame: StackFrame): Unit = {
+    try {
+      frame.functionName match {
+        case Some(fname) => System.err.println(fname)
+        case None        =>
+      }
+    } catch { case _: Throwable =>}
+  }
 
 }

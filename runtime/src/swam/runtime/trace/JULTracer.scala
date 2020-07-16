@@ -60,9 +60,7 @@ class JULTracer(conf: TraceConfiguration, formatter: Formatter = PureFormatter) 
   override def filter(tpe: EventType, args: List[String], frame: StackFrame): Boolean =
     conf.filter.equals("*") || tpe.entryName.matches(conf.filter)
 
-  def traceEvent(tpe: EventType, args: List[String]): Unit =
-    logger.info(s"${tpe.entryName},${args.mkString(",")}${conf.separator}")
-
+  def traceEvent(tpe: EventType, args: List[String]): Unit = {}
 }
 
 object JULTracer {
